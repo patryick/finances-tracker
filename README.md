@@ -9,3 +9,5 @@ palette of charts visualizing expenses in various configurations
 
 
 ## 2. [Functional requirements](https://github.com/patryick/finances-tracker/wiki/Functional-Requirements)
+
+## 3. Figma prototypes of views
